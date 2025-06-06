@@ -5,7 +5,7 @@
 
 ## 👨‍💻 À propos de moi
 
-Étudiant passionné en MSc AI Applied to Business à Eugenia School, je combine expertise en Business Intelligence et Intelligence Artificielle. Actuellement en recherche d'alternance (4 jours entreprise/1 jour école), je développe des solutions data-driven pour optimiser les performances business.
+Étudiant passionné en MSc AI Applied to Business à Eugenia School, je combine expertise en Business Intelligence et Intelligence Artificielle.
 
 ### 🎯 Domaines d'expertise
 - Business Intelligence & Analytics
