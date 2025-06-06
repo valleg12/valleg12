@@ -47,4 +47,3 @@
 - ⛵ Navigation (Skipper)
 
 ---
-*💡 En recherche d'alternance dans le domaine de l'IA et de la Data Science* 
